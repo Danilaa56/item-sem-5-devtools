@@ -8,3 +8,6 @@ This repository is designed to illustrate world creation, so if God had a GitHub
 
 One day - one pull request.
 
+### Has a look
+
+[GitHub Pages](https://danilaa56.github.io/item-sem-5-devtools/)
